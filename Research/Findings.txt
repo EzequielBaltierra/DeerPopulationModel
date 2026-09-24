@@ -1,0 +1,107 @@
+Ecological Methods
+Peter Alan Henderson, Pisces Conservation Ltd and The University of Oxford, UK
+
+
+##Intensive/Extensive 
+
+Studies can be broadly classified as intensive or extensive. Extensive studies are carried out
+over larger areas than intensive studies and seek to obtain information on the distribution and 
+abundance of species for conservation and management purposes. Intensive studies involve the 
+repeated observation of a population to gain insight into demographic processes.
+
+##Sequence of steps 
+All ecological studies follow a sequence of steps. First the objectives are defined and a 
+sampling programme is formulated. Second, the field sampling is undertaken, the
+organisms are sorted and identified, and relevant measurements such as size or age are 
+recorded. Finally, the data is tabulated and analysed, usually using a computer, and 
+the results are reported. Care is required at all stages to ensure that the study 
+is realistic given the manpower and other resources available.
+
+## Detailed accounts of the methods available to ecologists
+are given in Southwood and Henderson (2000) and the
+numerical methods are described in Krebs (1999) and
+Legendre and Legendre (1998)
+
+##Absolute vs. Relative population estimates
+Absolute - Express population size per unit area or volume. 
+Often it is more appropriate to count animals per unit of habitat (per leaf, or per host.)
+Such measures are termed population intensity and are more meaningful than absolute number when the
+objective is an assessment of crop or host damage.
+
+Relative methods produce some measure of abundance based on the number caught per unit of 
+effort or trapping. Relative methods are frequently used when resources are limited,
+when it is desired to quickly obtain a general sample of the species present, or when 
+the organism is difficult to sample quantitatively. Given constant sampling efficiency,
+relative methods can be used to follow population trends or compare abundance between 
+habitats. Both absolute andrelative methods will be discussed below.
+
+###THE SAMPLING PROGRAM 
+Samples must be taken as it is not possible to count all plants/animals in an area. 
+Requires decisions about the subdivision of the habitat, the size of the sampling unit, the number of
+samples, the spatial pattern of the samples and the time of sampling. Seasons must be taken into account
+Knowledge about the pattern of distribution of the population is particularly relevant.
+A preliminary survey may be necessary before the final sampling design is formulated
+
+##Absolute Population Estimates. 
+The number of individuals in a fixed unit of habitat must be counted or the population studied by 
+mark–recapture, removal sampling or distance sampling methods.
+
+##Distance sampling Methods
+In closest-individual methods a point is selected at random and then the area around 
+it is searched in concentric rings; the closest individual is found and its
+distance from the point is measured. The process should be
+continued to find the 2nd, 3rd, _ ith closest individual.
+These measurements are then used to calculate an estimate
+of the density.
+
+A related technique is nearest-neighbour estimation, in
+which an individual is selected at random and the search is
+continued until the nearest neighbour is encountered. The
+distance between neighbours is then used to calculate
+density. A wide variety of techniques based on this method
+are used, which may be more robust to nonrandom
+distributions. These include angle-order methods in which
+the distance to the nearest neighbour in each quadrate is
+found.
+
+##Trapping bugs?? 
+Traps are frequently used by
+animal ecologists and include light traps for night-flying
+insects and larval fish, pitfall traps for ground-living
+animals such as spiders and beetles, malaise traps for day-
+flying insects, traps and tangle nets for fish, and sticky
+traps. Traps, like most relative methods, depend on the
+activity of the animal and will give misleading information
+if some part of the population is inactive. For example,
+light traps usually have a variable and unknown level of
+efficiency. They may catch different numbers of moths
+depending on the weather and the state of the moon.
+Further, they may only catch one sex or a limited age range.
+
+##Life Tables and Key Factor Analysis
+In intensive studies, the construction of life tables is
+important for the understanding of species population
+dynamics. The life table shows the pattern of births and
+deaths through time. An age-specific life table is based on
+the fate of a real cohort, whereas a time-specific life table is
+based on the age structure of the population at some
+instant in time. The analysis of life tables by methods such
+as key factor analysis is used to identify particular stages in
+the life cycle that are particularly important in determining
+population size. Ecologists frequently seek to identify
+processes that result in density-dependent births and
+deaths. In a density-dependent process, the magnitude of
+the effect changes with the size of the population. Such
+processes are important for population stability.
+The preparation of life tables often requires organisms to
+be aged. For woody plants this can be done from the
+growth rings in the trunk. For many animals, growth rings
+in hard structures can also be used: for example, fish are
+aged by the seasonal growth checks visible on the scales or
+otoliths. Similarly, molluscs can show growth bands in the
+shell. Damage and wear can be used to estimate the age of
+insects and mammals. For example, the development of
+and wear on teeth can be used to age mammals. Care must
+be taken when using growth checks, as these may also be
+caused by irregular events; for example, a drought or
+reproduction may also check growth.

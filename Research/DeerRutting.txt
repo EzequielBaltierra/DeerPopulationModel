@@ -1,0 +1,11 @@
+Peak rut dates in North Carolina.
+
+North Carolina has the most dramatic rut variation east of the Mississippi
+ — coastal bucks peak in October while mountain bucks peak nearly a month later.
+
+ Zone	               |Pre-rut|	      Peak breeding|	   Post-rut|	    Late rut|
+Lower Coastal Plain| Oct 1 – Oct 14| 	Oct 15 – Oct 25| 	Oct 26 – Nov 8| 	Nov 14 – Nov 25
+Upper Coastal Plain|Oct 15 – Oct 29|	Oct 30 – Nov 8| 	Nov 9 – Nov 22| 	Nov 27 – Dec 10
+Piedmont|        	Oct 25 – Nov 7| 	Nov 8 – Nov 17| 	Nov 18 – Dec 1| 	Dec 6 – Dec 18
+Mountains|      	Oct 28 – Nov 10|	Nov 11 – Nov 20| 	Nov 21 – Dec 4| 	Dec 9 – Dec 22
+
